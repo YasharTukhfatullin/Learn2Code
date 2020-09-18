@@ -19,5 +19,4 @@ def main_loop():
 print("This is first line")
 
 if __name__ == "__main__":
-    main_loop()
-
+    burn_money()
